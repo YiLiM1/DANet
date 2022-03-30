@@ -1,5 +1,5 @@
 # DANet: Monocular Depth Distribution Alignment with Low Computation
-This is the implementation of the paper [***Monocular Depth Distribution Alignment with Low Computation***](https://arxiv.org/abs/2203.04538), ***ICRA 2022, Fei Sheng, Feng Xue, and Yicong Chang and Wenteng Liang
+This is the implementation of the paper [***Monocular Depth Distribution Alignment with Low Computation***](https://arxiv.org/abs/2203.04538), ***ICRA 2022, Fei Sheng, Feng Xue, Yicong Chang, Wenteng Liang
 and Anlong Ming.***
 
 
