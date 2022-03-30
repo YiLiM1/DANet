@@ -30,7 +30,7 @@ Monocular depth estimation has been widely applied in many computer vision and r
 - Wandb
 
 ### Pre-processed Data
-You can download the NYUD v2 and iBims-1 dataset from [Google Drive](https://drive.google.com) or 
+You can download the NYUD v2 and iBims-1 dataset from [Google Drive](https://drive.google.com/file/d/1-4NWtcQOa9vj4yoIr_dBtQ6LQ5qdMtgQ/view?usp=sharing) or 
 [Baidu Netdisk](https://pan.baidu.com/s/1z5J4BPqdqWxqg4PEzlJuIA?pwd=dp53) (Code: dp53).  
 Then please unzip the data folder and replace the ./data folder.
 
